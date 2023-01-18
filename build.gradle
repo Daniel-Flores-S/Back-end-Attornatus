@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.attornatus.people'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
+java.sourceCompatibility = JavaVersion.VERSION_11
 
 configurations {
 	compileOnly {
